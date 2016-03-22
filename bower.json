@@ -1,0 +1,13 @@
+{
+  "name": "ng-cache",
+  "version": "0.0.1",
+  "license" : "MIT",
+  "main": "./release/ng-cache.js",
+  "dependencies": {
+    "angular": ">= 1.4.0",
+    "angular-cookies": ">= 1.4.0"
+  },
+  "ignore": [
+    "**/.*",
+  ]
+}
