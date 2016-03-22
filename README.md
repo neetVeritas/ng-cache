@@ -24,10 +24,10 @@ angular.module('myApp', ['ng-cache'])
     $scope.data = $data = {
       visitor: ''
     };
-    $data.visitor = $cache.get('visitor');
+    $data.visitor = $cache.visitor;
       // # instantiate to
     $scope.update = function() {
-      $cache.set('visitor', $data.visitor);
+      $cache.visitor = $data.visitor;
     }; // # update to on invoke
   });
 ```
