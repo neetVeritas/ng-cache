@@ -4,7 +4,7 @@
 ng-Cache is a third party, high level wrapper for the official ngCookie plugin.
 The idea and goal was to bind cache data to a local object to reference to and from.
 
-**Note:** *This project was created created with Angular 1.5.3, and will most probably not be updated in impending future.*
+**Note:** *This project was created created with Angular 1.5.2, and will most probably not be updated in impending future.*
 
 ## Get Started
 
